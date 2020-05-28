@@ -1,0 +1,59 @@
+.jumbotron{
+    background-image: url("");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.card-title{
+color:orange;
+font-style: italic;
+font-family: Comic Sans MS;
+}
+.heading{
+    font-family: Courier New;
+   
+
+    font-size: 500%;
+  background-size: cover;
+  background-repeat: no-repeat;
+    text-align: center;
+    color:red;
+    transition: 2.5s;
+}
+ #head:hover {
+   transform: scale(0.5);
+   opacity: 0.5;
+   background-image:url("https://previews.123rf.com/images/jagcz/jagcz1702/jagcz170200109/72245499-asian-food-served-on-white-wooden-table-top-view-space-for-text-chinese-and-vietnamese-cuisine-set-.jpg");
+
+   
+  }
+  #dish{
+    transition: 2.5s;
+
+  }
+  #dish:hover {
+    transform: scale(1.15)
+  }
+  #city h4{
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+
+  }
+  #description p {
+    font-family:Comic Sans MS;
+
+  }
+  #background{
+    opacity: 0.6;
+  }
+  #btn_menu{
+    border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+  font-weight: 500;
+  border-radius: 25px;
+  }
